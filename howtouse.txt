@@ -1,7 +1,0 @@
-1.パス指定
-
-cd /Users/tanamiki/Library/CloudStorage/GoogleDrive-minemiki0901@gmail.com/マイドライブ/Python/PNGtoPDF/
-
-2.実行
-
-python png_to_pdf.py
